@@ -14,6 +14,19 @@ Currently expanding my skills in:
 - Kubernetes
 - Azure DevOps
 
+## Community Contributions
+
+### Speaking Engagements
+
+#### PowerShell + DevOps Summit 2022
+- 	PowerShell with SQL Statement Data Gathering
+
+#### PowerShell + DevOps Summit 2023
+- 	Improve PowerShell Code Efficiency with .NET RunSpaces
+
+#### PowerShell + DevOps Summit 2025
+- 	Event-Driven Automation with PowerShell: Listening for Change, Acting in Real Time
+
 ## Certifications
 
 ### Microsoft
