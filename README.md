@@ -1,16 +1,38 @@
-## Hi there 👋
+# Bruce Stump
 
-<!--
-**bstump101/bstump101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Administrator | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced Systems Administrator with a passion for automation, PowerShell, APIs, and cloud technologies.
+
+Currently expanding my skills in:
+- GitHub
+- GitHub Actions
+- Python
+- Terraform
+- Kubernetes
+- Azure DevOps
+
+## Certifications
+
+- AZ-900: Azure Fundamentals
+- AI-900: Azure AI Fundamentals
+
+## Current Projects
+
+- DevOps Learning Journey
+- PowerShell Lab
+- GitHub Actions Lab
+
+## Areas of Interest
+
+- PowerShell Automation
+- REST APIs
+- Infrastructure as Code
+- Cloud Engineering
+- DevOps Practices
+
+## Connect
+
+LinkedIn: (https://www.linkedin.com/in/brucestump/
