@@ -42,4 +42,4 @@ Currently expanding my skills in:
 
 ## Connect
 
-LinkedIn: (https://www.linkedin.com/in/brucestump/
+LinkedIn: (https://www.linkedin.com/in/brucestump/)
