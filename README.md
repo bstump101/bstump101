@@ -16,8 +16,15 @@ Currently expanding my skills in:
 
 ## Certifications
 
+### Microsoft
+
 - AZ-900: Azure Fundamentals
 - AI-900: Azure AI Fundamentals
+
+### Boomi
+
+- Associate Developer
+- Professional Developer
 
 ## Current Projects
 
